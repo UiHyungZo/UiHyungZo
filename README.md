@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 조의형 | iOS Developer
 
-<!--
-**UiHyungZo/UiHyungZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+4+ years of experience building and stabilizing iOS applications in financial services.
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏗 Architecture
+- 🔍 Troubleshooting
+- 🧪 Testable Code
+
+## Featured
+
+🏥 Aran
+→ IVF management app released on the App Store
+
+🏦 IBK SmartCampus
+→ Hybrid app architecture and JS-Native bridge design
+
+📷 On-Device OCR SDK
+→ Vision + CoreML based XCFramework delivery
+
+📝 Blog
+https://luca-os.tistory.com
